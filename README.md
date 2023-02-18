@@ -1,1 +1,1 @@
- Just a repo for practing and learning new stuff
+ Just a repo for practicing and learning new stuff
